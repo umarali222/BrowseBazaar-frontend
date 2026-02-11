@@ -4,8 +4,7 @@ Welcome to Browse-Bazaar, my first full-stack project and latest venture in the 
 
 ## Demo
 
-- Try Now: Live url: https://browse-bazaar-frontend.vercel.app/
-- Github: Backend: 
+- Try Now: Live url: https://browse-bazaar-frontend.vercel.app/ 
 
 ## Features
 - **Hero Section with Image Carousel:** Engage with captivating visuals right from the start!
